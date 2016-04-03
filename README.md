@@ -59,7 +59,7 @@ $ npm install -g flat-palettes
 ### Node
 
 ```js
-const colors = require('flat-palettes.js');
+const colors = require('flat-palettes');
 
 colors(3);
 //=> ['#f7a61b', '#7cbf42', '#eb4a24']

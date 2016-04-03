@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    :art: Need color inspiration? No problem! Have some fantastic random color palettes.
+  Need color inspiration? No problem! Have some fantastic random color palettes.
 </p>
 
 <p align="center">
@@ -92,7 +92,7 @@ All you got to do is:
 $ flat-palettes <numberOfColors>
 ```
 
-Where `<numberOfColors>` is the same described [here]().
+Where `<numberOfColors>` is the same described [here](#numberofcolors).
 
 #### Options
 

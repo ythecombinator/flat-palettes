@@ -1,0 +1,50 @@
+{
+  "name": "flat-palettes",
+  "version": "0.1.0",
+  "description": "Need color inspiration? No problem! Have some fantastic random color palettes.",
+  "main": "index.js",
+  "bin": "cli.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "compile": "lsc --no-header -b -c -o ./ src",
+    "test": "mocha --compilers ls:livescript",
+    "build": "npm run compile && npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mabrasil/flat-palettes"
+  },
+  "keywords": [
+    "Flat",
+    "Flat Colors",
+    "Flat Palettes",
+    "Flat Color Palettes",
+    "Design"
+  ],
+  "author": {
+    "name": "Matheus Brasil",
+    "email": "matheus.brasil10@gmail.com",
+    "url": "https://github.com/mabrasil/flat-palettes"
+  },
+  "license": {
+    "type": "MIT",
+    "url": ""
+  },
+  "bugs": {
+    "url": "https://github.com/mabrasil/flat-palettes/issues"
+  },
+  "homepage": "https://github.com/mabrasil/flat-palettes",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "meow": "^3.7.0",
+    "prelude-ls": "^1.1.2",
+    "unique-random-array": "^1.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "livescript": "^1.4.0",
+    "mocha": "^2.4.5"
+  }
+}

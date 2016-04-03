@@ -11,11 +11,6 @@ require! {
 
 cli = meow {help: [
   ''
-  'Flat Palettes'
-  ''
-  'Need color inspiration?'
-  'No problem! Have some fantastic random color palettes.'
-  ''
   'Options:'
   '  --help  Guess what? It brings you here.'
   '  --version  Displays the current version.'

@@ -84,8 +84,6 @@ colors(5);
 
 ### CLI
 
-![GIFs <3](http://i.imgur.com/OJUc35K.gif)
-
 All you got to do is:
 
 ```sh
@@ -93,6 +91,18 @@ $ flat-palettes <numberOfColors>
 ```
 
 Where `<numberOfColors>` is the same described [here](#numberofcolors).
+
+![GIFs <3](http://i.imgur.com/OJUc35K.gif)
+
+> The commands above (in the *GIF*) gave you the following palettes:
+
+> ![3-colors Palette](http://i.imgur.com/4EAo810.png)
+
+> And:
+
+> ![5-colors Palette](http://i.imgur.com/wNu9BWW.png)
+
+> *Pretty eye candy, huh?*
 
 #### Options
 

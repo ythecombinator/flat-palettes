@@ -52,7 +52,7 @@ $ npm install -g flat-palettes
 
 <p align="center">
   <a href="">
-    <img alt="Screenshot" src="" width="900px">
+    <img alt="Screenshot" src="http://i.imgur.com/M3jdU2P.png" width="900px">
   </a>
 </p>
 
@@ -84,7 +84,7 @@ colors(5);
 
 ### CLI
 
-![GIFs <3]()
+![GIFs <3](http://i.imgur.com/OJUc35K.gif)
 
 All you got to do is:
 

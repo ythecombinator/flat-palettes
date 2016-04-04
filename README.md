@@ -96,11 +96,11 @@ Where `<numberOfColors>` is the same described [here](#numberofcolors).
 
 > The commands above (in the *GIF*) gave you the following palettes:
 
-> ![3-colors Palette](http://i.imgur.com/4EAo810.png)
+> <img alt="3-colors Palette" src="http://i.imgur.com/4EAo810.png" width="550px">
 
 > And:
 
-> ![5-colors Palette](http://i.imgur.com/wNu9BWW.png)
+> <img alt="5-colors Palette" src="http://i.imgur.com/wNu9BWW.png" width="550px">
 
 > *Pretty eye candy, huh?*
 

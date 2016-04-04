@@ -52,7 +52,7 @@ $ npm install -g flat-palettes
 
 <p align="center">
   <a href="">
-    <img alt="Screenshot" src="http://i.imgur.com/M3jdU2P.png" width="900px">
+    <img alt="Screenshot" src="http://i.imgur.com/M3jdU2P.png" width="700px">
   </a>
 </p>
 

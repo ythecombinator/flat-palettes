@@ -10,7 +10,7 @@
 
 <p align="center">
 
-  <a href="https://codeship.com/projects/"><img alt="Build Status" src="https://codeship.com/projects//status?branch=master"></a>
+  <a href="https://codeship.com/projects/144431"><img alt="Build Status" src="https://codeship.com/projects/884fd3f0-dd82-0133-4ac9-0a409e517203/status?branch=master"></a>
 
   <a href="https://travis-ci.org/mabrasil/flat-palettes"><img alt="Build Status" src="https://travis-ci.org/mabrasil/flat-palettes.svg?branch=master"></a>
 

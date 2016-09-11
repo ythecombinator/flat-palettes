@@ -28,10 +28,7 @@
     "email": "matheus.brasil10@gmail.com",
     "url": "https://github.com/mabrasil/flat-palettes"
   },
-  "license": {
-    "type": "MIT",
-    "url": ""
-  },
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mabrasil/flat-palettes/issues"
   },

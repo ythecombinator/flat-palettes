@@ -23,9 +23,11 @@ cli = meow {help: [
   ''
 ]}
 
-logColors = (element) ->
+setColorWithColor = (color) -> colors.hex color
 
-    console.log element.replace //^"(.*)"$//, '$1'
+logColors = (element) ->
+  element = element.replace //^"(.*)"$//, '$1'
+  console.log setColorWithColor(element)(element)
 
 console.log colors.red '\n Here ' + colors.green 'is ' + colors.cyan 'your ' +
             colors.blue 'flat ' + colors.magenta 'palette: \n'
